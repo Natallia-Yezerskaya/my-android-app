@@ -1,0 +1,27 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#fff555">
+
+    <EditText
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:text="Text"
+        android:id="@+id/editText"
+        android:gravity="right|center"/>
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:text="New Button"
+        android:id="@+id/button"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+
+</RelativeLayout>
+
+
