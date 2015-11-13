@@ -21,7 +21,7 @@
         android:text="@string/textView_text"
         android:id="@+id/textView"
         android:layout_gravity="left|top"
-        android:background="#2ff836"
+        android:background="#f237f8"
         android:textSize="40dp"
         android:onClick="onClick" />
 
